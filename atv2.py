@@ -1,5 +1,3 @@
-#Solicite um valor em segundos e converta para dias, horas e minutos.
-
 tempo = int(input("Diga o valor dos segundos:"))
 
 minutos = tempo // 60
