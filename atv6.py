@@ -1,5 +1,3 @@
-#Crie um programa que gere e exiba os 100 primeiros números primos.
-
 def analise_primo(n):
     if n < 2:
         return False
