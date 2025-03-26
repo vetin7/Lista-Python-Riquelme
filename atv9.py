@@ -1,10 +1,8 @@
-#Peça três números ao usuário e informe qual é o maior e qual é o menor.
+num1 = int(input("Diga um numero: "))
+num2 = int(input("Diga outro numero: "))
+num3 = int(input("Diga mais outro numero: "))
 
-n1 = int(input("Diga um numero: "))
-n2 = int(input("Diga outro numero: "))
-n3 = int(input("Diga mais outro numero: "))
-
-numeros = [n1, n2, n3]
+numeros = [num1, num2, num3]
 
 def bubble_sort_desc(lista):
     n = len(lista)
