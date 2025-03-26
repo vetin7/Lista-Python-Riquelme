@@ -1,7 +1,3 @@
-#Um cliente alugou um carro e rodou alguns quilômetros por um certo número de
-#dias. O custo diário é de R$90. Se ele rodou mais de 100 km, há uma taxa extra de
-#R$12 por km adicional. Calcule o valor total a ser pago.
-
 distancia = int(input("Diga por quantos km's voce andou:"))
 tempo = int(input("Diga por quantos dias voce alugou o carro:"))
 
